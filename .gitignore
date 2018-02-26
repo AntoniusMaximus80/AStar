@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/AStar/[Ll]ibrary/
+/AStar/[Tt]emp/
+/AStar/[Oo]bj/
+/AStar/[Bb]uild/
+/AStar/[Bb]uilds/
+/AStar/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -32,3 +32,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.info
+*.asset
+*.txt
+*.json
+*.dwlt
+*.prefs
+*.bin
+Gareth_Noyce/Library/
+Gareth_Noyce/Temp/
